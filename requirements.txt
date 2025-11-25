@@ -1,0 +1,4 @@
+pycountry
+xmlsig
+schwifty==2024.4.0
+packaging
